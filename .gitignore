@@ -42,4 +42,4 @@
 
 #large-file
 *.ipch
-.vs\
+.vs/
